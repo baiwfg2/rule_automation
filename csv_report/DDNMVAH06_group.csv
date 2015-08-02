@@ -1,0 +1,5 @@
+VAAName,Status,Partition Count
+UK1P-DDNMVAH06A,Live,8
+UK1P-DDNMVAH06B,Standby,8
+UK2P-DDNMVAH06A,Standby,8
+UK2P-DDNMVAH06B,Standby,8

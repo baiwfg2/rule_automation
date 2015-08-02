@@ -1,0 +1,6 @@
+C:\cshi\coding\RuleTest\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+C:\cshi\coding\RuleTest\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+C:\cshi\coding\RuleTest\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+C:\cshi\coding\RuleTest\EmailSender\EmailSender\obj\Debug\EmailSender.csprojResolveAssemblyReference.cache
+C:\cshi\coding\RuleTest\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+C:\cshi\coding\RuleTest\EmailSender\EmailSender\obj\Debug\EmailSender.pdb

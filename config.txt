@@ -1,0 +1,20 @@
+# the account of TR
+user=C199631
+passwd=Tr
+
+# the initial page
+main_url=http://evadmin.int.thomsonreuters.com/VAH/Server
+
+# the VAH machines to be checked, seperated with comma
+vah=DDNMVAH06,DDNMVAH20
+
+# the products to be checked, seperated with comma
+product=VDI C AND E,VDI ETI,VDI FIFXMM,VDI Logiciser,VDI OTC MARKETS
+
+# Mail Configurations
+server=164.179.13.199
+port=25
+subject=LIVE Rules Monitoring Report
+sender=***
+receivers=***
+attachments=report.html
